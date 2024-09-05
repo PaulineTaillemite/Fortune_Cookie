@@ -1,7 +1,7 @@
-# GetACookie 🍪
+# FortuneCookie 🍪
 
 ## 🌟 Overview
-**GetACookie** is a project developed to learn and master the Django framework in Python. The project involves creating a simple web application that randomly generates fortune cookie messages when the user accesses the dedicated page.
+**FortuneCookie** is a project developed to learn and master the Django framework in Python. The project involves creating a simple web application that randomly generates fortune cookie messages when the user accesses the dedicated page.
 
 ## 🛠️ Technologies Used
 - **Python** 🐍
@@ -14,7 +14,7 @@ The main goal of this project was to:
 - Work with Django's URL routing and views system.
 - Manage templates to display dynamic content.
 
-By developing **GetACookie**, the focus was on understanding Django's internal workings, particularly:
+By developing **FortuneCookie**, the focus was on understanding Django's internal workings, particularly:
 - Creating and routing URLs.
 - Developing views to handle HTTP requests.
 - Integrating models and templates to display messages dynamically.
